@@ -14,8 +14,6 @@ https://trac.ffmpeg.org/wiki/Encode/AAC
 1. ```sudo apt-get install git gcc g++ yasm pkg-config make autoconf libtool```
 
 ## ビルド
-1. ```git submodule init```
-1. ```git submodule update```
 1. ```make```
 1. binディレクトリにffmpegが配置されます
 
