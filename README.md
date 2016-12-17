@@ -20,5 +20,5 @@ https://trac.ffmpeg.org/wiki/Encode/AAC
 1. binディレクトリにffmpegが配置されます
 
 ## 実行
-```bin/ffmpeg```
+1. ```bin/ffmpeg```
 
